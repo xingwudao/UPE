@@ -54,4 +54,4 @@ https://inlg2018.uvt.nl/wp-content/uploads/2018/11/INLG2018-YoavGoldberg.pdf
 
 ### Learning Neural Templates for Text Generation
 
-[](https://github.com/harvardnlp/neural-template-gen)
+[https://github.com/harvardnlp/neural-template-gen](https://github.com/harvardnlp/neural-template-gen)
