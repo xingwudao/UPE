@@ -12,6 +12,6 @@ Natural Language Generation
 
 ## Papers
 
-### 综述
+## Survey
 
 ## Tutorial
