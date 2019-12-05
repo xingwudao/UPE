@@ -16,6 +16,8 @@ Natural Language Generation
 
 4. [微软研究院——数据到文本生成的近期优质论文](https://www.msra.cn/zh-cn/news/features/data2text-paper-list)
 
+5. [阿里-搜索团队智能内容生成实践](https://zhuanlan.zhihu.com/p/33956907)
+
 ## Papers
 
 NLG方向比较值得关注的会议是INLG。
